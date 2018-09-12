@@ -7,6 +7,12 @@
 #   location:  # Company location
 #   description: " # Company description and how Elixir is used"
 
+Channex.io:
+  industry: Hospitality 
+  location: Haarlem, Netherlands 
+  url: http://channex.io 
+  description: “We are a hotel inventory distribution project built with Elixir/Erlang for all backend, API and channel communications“
+
 22cans:
   industry: Gaming
   url: http://www.22cans.com/
